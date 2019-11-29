@@ -1,0 +1,5 @@
+actions:
+  - type: simple
+    className: com.sagas.actions.SimpleActions
+  - type: testing
+    className: com.sagas.actions.testings.TestingActions

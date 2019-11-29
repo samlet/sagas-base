@@ -1,0 +1,4 @@
+!!com.sagas.actions.testings.Customer
+firstName: "John"
+lastName: "Doe"
+age: 20
